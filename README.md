@@ -11,3 +11,12 @@ https://forum.xda-developers.com/attachments/xposedinstaller_3-1-5-apk.4393082/
 
 jadx
 https://github.com/skylot/jadx/
+
+QtScrcpy
+https://github.com/barry-ran/QtScrcpy
+
+frida
+https://github.com/frida/frida
+
+frid dex 脱壳
+https://github.com/hluwa/frida-dexdump
